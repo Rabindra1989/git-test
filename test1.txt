@@ -2,3 +2,5 @@ this is my first commit:
 
 modified
 hello world
+
+modified for git fetch
